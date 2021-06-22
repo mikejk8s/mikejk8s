@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **mikejk8s/mikejk8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
