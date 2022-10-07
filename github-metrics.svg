@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EwanValentine/shippy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for the tutorial series on creating Microservices with Golang</div>
@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terraform-linters/tflint-ruleset-aws</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TFLint ruleset for terraform-provider-aws</div>
@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terraform-linters/tflint-ruleset-terraform</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TFLint ruleset for Terraform Language</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-solutions/quota-monitor-for-aws</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.</div>
@@ -2549,7 +2549,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Oct 2022, 22:24:29 (timezone America/Denver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 6 Oct 2022, 23:16:12 (timezone America/Denver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
