@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Pluralith/pluralith-cli</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for Terraform state visualisation and automated generation of infrastructure documentation</div>
@@ -2542,7 +2542,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2022, 10:05:01 (timezone America/Denver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Oct 2022, 11:10:20 (timezone America/Denver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
