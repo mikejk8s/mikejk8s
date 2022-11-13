@@ -2344,7 +2344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>create-go-app/cli</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!</div>
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mastodon/mastodon</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your self-hosted, globally interconnected microblogging community</div>
@@ -2547,7 +2547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2022, 07:04:05 (timezone America/Denver) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 08:04:31 (timezone America/Denver) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
