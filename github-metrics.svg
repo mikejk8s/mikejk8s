@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubeshark/kubeshark</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes</div>
@@ -2444,7 +2444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>second-state/microservice-rust-mysql</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.</div>
@@ -2541,7 +2541,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Dec 2022, 09:05:24 (timezone America/Denver) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 25 Dec 2022, 10:04:07 (timezone America/Denver) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
