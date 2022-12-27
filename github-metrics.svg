@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mathaou/termdbms</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI for viewing and editing database files.</div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knipferrc/teacup</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of bubbles and utilities for bubbletea applications</div>
@@ -2425,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/ssosync</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda</div>
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Dec 2022, 18:31:25 (timezone America/Denver) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 26 Dec 2022, 19:19:25 (timezone America/Denver) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
