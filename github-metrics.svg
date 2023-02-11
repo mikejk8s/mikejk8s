@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikejk8s/gmud</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eugeneware/docker-apache-php</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dockerfile and etc for a Wordpress docker image</div>
@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allisson/docker-mysql</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2544,7 +2544,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2023, 15:05:21 (timezone America/Denver) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 11 Feb 2023, 16:04:20 (timezone America/Denver) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
