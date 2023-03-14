@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adamiBs/vscode-terraform-live-graph</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.</div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meshery/meshery</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Meshery, the cloud native manager</div>
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Mar 2023, 21:04:38 (timezone America/Denver) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 13 Mar 2023, 22:04:29 (timezone America/Denver) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
