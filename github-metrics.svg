@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oguzhan-yilmaz/balcony</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Effortlessly enumerate your AWS Account with Balcony - a CLI tool that utilizes AWS API and automatically populates required parameters.</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>copy/v86</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">x86 virtualization in your browser, recompiling x86 to wasm on the fly</div>
@@ -2549,7 +2549,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2023, 08:04:19 (timezone America/Denver) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Mar 2023, 09:04:45 (timezone America/Denver) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
