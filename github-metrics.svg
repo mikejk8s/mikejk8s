@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XuehaiPan/nvitop</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.</div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emilk/egui</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</div>
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2023, 14:04:43 (timezone America/Denver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Apr 2023, 15:04:19 (timezone America/Denver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
