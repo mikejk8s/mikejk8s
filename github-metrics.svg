@@ -2329,7 +2329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/aws-graviton-getting-started</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This document is meant to help new users start using the Arm-based AWS Graviton2 and Graviton3 processors which power the 6th and 7th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, Im4gn, Is4gen, G5g, C7g).</div>
@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Netflix/consoleme</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Central Control Plane for AWS Permissions and Access</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>future-architect/tftarget</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option.</div>
@@ -2538,7 +2538,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2023, 19:36:30 (timezone America/Denver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 May 2023, 20:18:02 (timezone America/Denver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
