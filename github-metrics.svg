@@ -2345,7 +2345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/aws-graviton-getting-started</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This document is meant to help new users start using the Arm-based AWS Graviton2 and Graviton3 processors which power the 6th and 7th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, Im4gn, Is4gen, G5g, C7g).</div>
@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcicen/ctop</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Top-like interface for container metrics</div>
@@ -2554,7 +2554,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2023, 10:04:15 (timezone America/Denver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 May 2023, 11:14:18 (timezone America/Denver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
