@@ -2321,7 +2321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jepsen-io/maelstrom</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A workbench for writing toy implementations of distributed systems.</div>
@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ntdevlabs/tiny11builder</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scripts to build a trimmed-down Windows 11 image.</div>
@@ -2518,7 +2518,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Dec 2023, 15:04:14 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2023, 16:04:14 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
