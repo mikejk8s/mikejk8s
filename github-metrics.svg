@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</div>
@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/huggingface_hub</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official Python client for the Huggingface Hub.</div>
@@ -2444,7 +2444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ltdrdata/ComfyUI-Manager</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crowsonkb/k-diffusion</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Karras et al. (2022) diffusion models for PyTorch</div>
@@ -2548,7 +2548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Feb 2024, 23:05:27 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2024, 00:04:53 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
