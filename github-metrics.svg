@@ -2355,7 +2355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/gvisor-tap-vsock</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new network stack based on gVisor</div>
@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/podman-tui</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Podman Terminal UI</div>
@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/awesome-compose</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome Docker Compose samples</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxmint/timeshift</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</div>
@@ -2558,7 +2558,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2024, 20:04:37 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2024, 21:04:44 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
