@@ -2350,7 +2350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mhart/aws4fetch</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A compact AWS client and signing utility for modern JS environments</div>
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samber/lo</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</div>
@@ -2559,7 +2559,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 20:12:11 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 21:04:30 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
