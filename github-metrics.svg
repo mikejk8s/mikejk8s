@@ -2409,7 +2409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>windirstat/windirstat-next</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Brewing a future version</div>
@@ -2559,7 +2559,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jun 2024, 07:05:40 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2024, 08:04:32 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
