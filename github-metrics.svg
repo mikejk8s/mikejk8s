@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotansimha/graphql-yoga</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance &amp; great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.</div>
@@ -2553,7 +2553,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jun 2024, 13:04:00 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2024, 14:04:10 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
