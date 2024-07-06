@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oscal-compass/compliance-trestle</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 06 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">An opinionated tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.</div>
@@ -2553,7 +2553,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2024, 14:04:34 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2024, 15:04:23 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
