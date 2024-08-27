@@ -2324,7 +2324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AlgoTraders/stock-analysis-engine</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for building AI training datasets for teaching DNNs how to trade. Runs on Kubernetes and docker-compose. &gt;150 million trading history rows generated from +5000 algorithms. Heads up: Yahoo's Finance API was disabled on 2019-01-03 https://developer.yahoo.com/yql/</div>
@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WojciechZankowski/iextrading4j-book</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IEX Trading open source incremental Order Book implementation</div>
@@ -2521,7 +2521,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2024, 05:04:28 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2024, 06:06:25 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
