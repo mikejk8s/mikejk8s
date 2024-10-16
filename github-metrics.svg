@@ -2329,7 +2329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/serverless-partner-integration-endless-aisle</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-samples/foundation-model-benchmarking-tool</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Foundation model benchmarking tool. Run any model on any AWS platform and benchmark for performance across instance type and serving stack options.</div>
@@ -2539,7 +2539,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Oct 2024, 12:05:48 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2024, 13:04:13 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
