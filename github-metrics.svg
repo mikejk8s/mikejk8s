@@ -2335,7 +2335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>locustio/locust</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write scalable load tests in plain Python 🚗💨</div>
@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swlkr/ryde</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ryde is a single person, single file web framework for rust</div>
@@ -2538,7 +2538,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Nov 2024, 20:06:45 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 21:05:34 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
