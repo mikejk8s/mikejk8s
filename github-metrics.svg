@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lissy93/dashy</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</div>
@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BigBoot/AutoKuma</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.</div>
@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexjustesen/speedtest-tracker</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.</div>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devplayer0/docker-net-dhcp</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker network driver for networking on a host bridge with DHCP-allocated IP addresses</div>
@@ -2548,7 +2548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2025, 18:31:53 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 19:26:06 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
