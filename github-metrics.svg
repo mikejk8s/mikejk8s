@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>j-hc/zygisk-detach</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zygisk module to detach installed apps from Play Store, hooking binder</div>
@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReVanced/GmsCore</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free implementation of Play Services</div>
@@ -2543,7 +2543,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Oct 2025, 01:05:25 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Oct 2025, 02:07:06 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
